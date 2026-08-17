@@ -1,0 +1,58 @@
+{
+  "beginning": {
+    "key": "beginning",
+    "kicker": "01 — The Beginning",
+    "title": "Are you ready?",
+    "lines": [
+      "INITIALIZING...",
+      "Loading something special...",
+      "One more thing..."
+    ]
+  },
+  "character": {
+    "key": "character",
+    "kicker": "02 — Character",
+    "title": "What people know you for",
+    "lines": [
+      "The one who notices.",
+      "The one who makes things beautiful.",
+      "The one who takes care of people."
+    ]
+  },
+  "little-things": {
+    "key": "little-things",
+    "kicker": "03 — Little Things",
+    "title": "Small moments that stayed",
+    "lines": [
+      "A tiny inside joke.",
+      "A shared meal after a long day.",
+      "A message that arrived at the right time."
+    ]
+  },
+  "stories": {
+    "key": "stories",
+    "kicker": "04 — Stories",
+    "title": "Every chapter has people in it",
+    "lines": [
+      "Some stay for a moment.",
+      "Some stay much longer.",
+      "And some... are still here."
+    ]
+  },
+  "people-around-you": {
+    "key": "people-around-you",
+    "kicker": "05 — People Around You",
+    "title": "Look around you",
+    "lines": [
+      "Open each node when you feel like it."
+    ]
+  },
+  "everyone-is-here": {
+    "key": "everyone-is-here",
+    "kicker": "06 — Everyone Is Here",
+    "title": "Everyone's here",
+    "lines": [
+      "You are surrounded by people who are happy to have you in their lives."
+    ]
+  }
+}

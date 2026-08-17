@@ -1,0 +1,37 @@
+[
+  {
+    "id": "person-01",
+    "name": "An",
+    "relationship": "Bạn thân",
+    "message": "Mỗi lần nói chuyện với N là một lần thấy mọi thứ nhẹ hơn.",
+    "finalWish": "Luôn vui nhé!"
+  },
+  {
+    "id": "person-02",
+    "name": "Minh",
+    "relationship": "Đồng nghiệp",
+    "message": "Cảm ơn N vì luôn để ý những chi tiết nhỏ mà ai cũng bỏ qua.",
+    "finalWish": "Bình an nhé!"
+  },
+  {
+    "id": "person-03",
+    "name": "Hà",
+    "relationship": "Bạn học",
+    "message": "N là người khiến buổi gặp nào cũng có tiếng cười.",
+    "finalWish": "Hạnh phúc nhé!"
+  },
+  {
+    "id": "person-04",
+    "name": "Phúc",
+    "relationship": "Người cùng team",
+    "message": "Làm việc cùng N luôn có cảm giác yên tâm vì N rất tinh tế.",
+    "finalWish": "Luôn được yêu thương nhé!"
+  },
+  {
+    "id": "person-05",
+    "name": "Vy",
+    "relationship": "Bạn lâu năm",
+    "message": "Nhiều năm rồi nhưng cảm giác gần gũi vẫn nguyên vẹn như cũ.",
+    "finalWish": "Cứ là chính mình nhé!"
+  }
+]
